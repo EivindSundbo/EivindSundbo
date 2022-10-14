@@ -17,11 +17,9 @@
 
 
 <h1  align="center">
-  Welcome!
+  About Me :
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<h2 align="center">:man_technologist: About Me :</h2>
 
 :information_desk_person: I am 32 years old, 
 :couple: married and
