@@ -16,7 +16,7 @@
 
 
 <h1  align="center">
-  hey there
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
