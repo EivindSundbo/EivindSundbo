@@ -34,11 +34,10 @@
 
 
 
-- :notebook: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+:notebook: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eivind-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eivind-berg-sundb%C3%B8-9064b79a/)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eivind-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eivind-berg-sundb%C3%B8-9064b79a/)
 
 
 ---
