@@ -33,6 +33,13 @@
 
 :man_technologist: About Me :
 
+:information_desk_person: I am 32 years old 
+:couple: Married
+:baby::baby: have two daughters
+
+
+
+
 - :telescope: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
 - :seedling: Exploring Technical Content Writing.
