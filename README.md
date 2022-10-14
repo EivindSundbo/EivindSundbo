@@ -29,14 +29,12 @@
 
 :information_desk_person: I am 32 years old, 
 :couple: married and
-:baby::baby: have two daughters
+:baby::baby: have two daughters and a :dog:
 
 
 
 
-- :telescope: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-
-- :seedling: Exploring Technical Content Writing.
+- :notebook: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
