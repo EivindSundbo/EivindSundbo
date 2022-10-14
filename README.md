@@ -21,6 +21,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+My name is Eivind, im a 32 year old front end student. The late
+
 :information_desk_person: I am 32 years old, 
 :couple: married and
 :baby::baby: have two daughters and a :dog:
