@@ -26,7 +26,7 @@
 </div>
 
 
-:man_technologist: About Me :
+<h2 align="center">:man_technologist: About Me :</h2>
 
 :information_desk_person: I am 32 years old, 
 :couple: married and
