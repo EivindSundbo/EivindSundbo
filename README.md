@@ -32,9 +32,8 @@
 
 
 :man_technologist: About Me :
-I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a front end student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
 - :seedling: Exploring Technical Content Writing.
 
