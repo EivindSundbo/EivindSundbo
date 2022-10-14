@@ -21,11 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!-- <div align="center">
-  <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e479hxq4jhqd2o3gmfzv8celmw5hzosmowx5o20svs0&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div> -->
-
-
 <h2 align="center">:man_technologist: About Me :</h2>
 
 :information_desk_person: I am 32 years old, 
