@@ -43,7 +43,7 @@
 
 ---
 
-<div align="center">### :hammer_and_wrench: Languages and Tools :</div>
+<h2 align="center">### :hammer_and_wrench: Languages and Tools :</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@
 
 ---
 
-### :fire: My Stats :
+<h2 align="center">### :fire: My Stats :</h2>
 [![GitHub Streak](https://streak-stats.demolab.com?user=EivindSundbo&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EivindSundbo&border_radius=50)](https://github.com/anuraghazra/github-readme-stats)
 
