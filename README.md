@@ -33,8 +33,8 @@
 
 :man_technologist: About Me :
 
-:information_desk_person: I am 32 years old 
-:couple: Married
+:information_desk_person: I am 32 years old, 
+:couple: married and
 :baby::baby: have two daughters
 
 
