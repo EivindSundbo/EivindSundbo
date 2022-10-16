@@ -21,11 +21,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-My name is Eivind, im a 32 year old front end student. The late
-
-:information_desk_person: I am 32 years old, 
-:couple: married and
-:baby::baby: have two daughters and a :dog:
+<p>
+  &#128129 Eivind Gjerløw Sundbø &#x2022; 33 years old &#x2022; Vesterålen, 
+  Norway &#x2022; Married &#x2022; Father of two (and one dog) &#x2022; 
+  Frontend development  student
+</p>
+                        <p>
+                            &#128188 For the past 12 years I have worked in retail –  advancing from salesperson to store manager. I held the latter position three years, furthering growth, and development for the business. However, I longed for new challenges, and found my calling in Frontend development - providing me with new, exciting expertise and room for my creative expression.
+                        </p>
+                        <p>
+                            &#128587 Combining retail, management and Frontend knowledge and experience gives me a competitive edge in the field of digital visibility. I thrive under pressure, being driven by progression and results. I have a great working capacity and enjoy working in collaboration with others – colleagues or clients.
+                        </p>
 
 
 
