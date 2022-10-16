@@ -26,12 +26,17 @@
   Norway &#x2022; Married &#x2022; Father of two (and one dog) &#x2022; 
   Frontend development  student
 </p>
-                        <p>
-                            &#128188 For the past 12 years I have worked in retail –  advancing from salesperson to store manager. I held the latter position three years, furthering growth, and development for the business. However, I longed for new challenges, and found my calling in Frontend development - providing me with new, exciting expertise and room for my creative expression.
-                        </p>
-                        <p>
-                            &#128587 Combining retail, management and Frontend knowledge and experience gives me a competitive edge in the field of digital visibility. I thrive under pressure, being driven by progression and results. I have a great working capacity and enjoy working in collaboration with others – colleagues or clients.
-                        </p>
+<p>
+ &#128188 For the past 12 years I have worked in retail –  advancing from salesperson to store manager. 
+  I held the latter position three years, furthering growth, and development for the business. However, 
+  I longed for new challenges, and found my calling in Frontend development - providing me with new, 
+  exciting expertise and room for my creative expression.
+</p>
+<p>
+ &#128587 Combining retail, management and Frontend knowledge and experience gives me a competitive edge 
+ in the field of digital visibility. I thrive under pressure, being driven by progression and results. 
+ I have a great working capacity and enjoy working in collaboration with others – colleagues or clients.
+</p>
 
 
 
